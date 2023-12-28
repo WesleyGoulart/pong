@@ -12,4 +12,4 @@ speed = vel;
 randomize();
 
 // Definindo a direção inicial da bola
-direction = random_range(0, 359);
+direction = choose(45, 135, 225, 315);
