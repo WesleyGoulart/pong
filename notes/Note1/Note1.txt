@@ -1,0 +1,2 @@
+Para fazer com que ele não consiga passar do teto, eu preciso criar um objeto de colisão
+Posicionar ele no teto do level e fazer com que a raquete colida
