@@ -37,6 +37,7 @@
     {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
+    {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},},

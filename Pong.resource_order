@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bola","order":2,"path":"objects/obj_bola/obj_bola.yy",},
+    {"name":"obj_gol","order":4,"path":"objects/obj_gol/obj_gol.yy",},
     {"name":"spr_raquete","order":4,"path":"sprites/spr_raquete/spr_raquete.yy",},
     {"name":"spr_bola","order":5,"path":"sprites/spr_bola/spr_bola.yy",},
     {"name":"spr_colisao","order":6,"path":"sprites/spr_colisao/spr_colisao.yy",},

@@ -4,7 +4,10 @@
 
 // Dando velocidade a bola
 
-speed = vel
+speed = vel;
+
+// Definindo a direção inicial da bola
+direction = choose(45, 135, 225, 315);
 
 
 
