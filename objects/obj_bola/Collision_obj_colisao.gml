@@ -4,6 +4,6 @@
 // Fazendo a bola quicar ao colidir com o chão e o teto
 move_bounce_solid(true);
 
-
-
+// Ficando mais rápida
+speed += incremento_vel;
 
