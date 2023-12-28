@@ -14,6 +14,7 @@
     {"name":"inst_47F44871","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_402D97ED","path":"rooms/rm_partida/rm_partida.yy",},
     {"name":"inst_769C2615","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_356BD408","path":"rooms/rm_partida/rm_partida.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -22,6 +23,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"propertyId":{"name":"gol_p1","path":"objects/obj_gol/obj_gol.yy",},"value":"False",},
           ],"rotation":0.0,"scaleX":0.25,"scaleY":5.625,"x":624.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_769C2615","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"properties":[],"rotation":0.0,"scaleX":0.25,"scaleY":5.625,"x":0.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_356BD408","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":312.0,"y":8.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Bola","depth":100,"effectEnabled":true,"effectType":null,"gridX":8,"gridY":8,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73B6242C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":208.0,},

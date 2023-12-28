@@ -17,6 +17,7 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_pontos","order":5,"path":"objects/obj_pontos/obj_pontos.yy",},
     {"name":"obj_bola","order":2,"path":"objects/obj_bola/obj_bola.yy",},
     {"name":"obj_gol","order":4,"path":"objects/obj_gol/obj_gol.yy",},
     {"name":"spr_raquete","order":4,"path":"sprites/spr_raquete/spr_raquete.yy",},
