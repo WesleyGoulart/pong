@@ -8,5 +8,8 @@ incremento_vel = 0.2;
 // Fazer ela começar se movendo
 speed = vel;
 
+// Mudando a seed do meu jogo
+randomize();
 
-
+// Definindo a direção inicial da bola
+direction = random_range(0, 359);
