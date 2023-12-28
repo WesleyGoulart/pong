@@ -1,8 +1,7 @@
 /// @description Parando
 // Você pode escrever seu código neste editor
 
-
-vspeed = 0
+if (global.dois_jogadores) speed = 0;
 
 
 
