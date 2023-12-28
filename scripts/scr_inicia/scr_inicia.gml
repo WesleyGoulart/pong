@@ -12,3 +12,7 @@ global.velvertical_bola = 0;
 // Variáveis dos gols
 global.gols_p1 = 0;
 global.gols_p2 = 0;
+
+
+// Quantidade máxima de gols
+global.gols_max = 2;

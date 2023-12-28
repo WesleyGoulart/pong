@@ -4,7 +4,7 @@
 
 // Desenhar os pontos do (p1)
 
-draw_text(x - 64, y, global.gols_p1)
-draw_text(x + 64, y, global.gols_p2)
+draw_text(x - 64, y, global.gols_p1);
+draw_text(x + 64, y, global.gols_p2);
 
 
